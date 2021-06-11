@@ -8,6 +8,4 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I can't cook :)
 
-* [LinkedIn](https://www.linkedin.com/in/prasansha-satpathy-b6b753195/)  
-* * [Twitter](https://twitter.com/cosmo_sat)  
-* * [Medium](https://medium.com/@prasansha.satpathy)
+* [LinkedIn](https://www.linkedin.com/in/prasansha-satpathy-b6b753195/) - [Twitter](https://twitter.com/cosmo_sat)  - [Medium](https://medium.com/@prasansha.satpathy)
