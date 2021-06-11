@@ -1,7 +1,4 @@
-### Hello 👋
-
-<!--
-**Sara-cos/Sara-cos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello there, Happy to see you...👋
 
 - 🔭 I’m currently a student.
 - 🌱 I’m developing my skills and working on applicability.
