@@ -10,10 +10,10 @@
 
 * [LinkedIn](https://www.linkedin.com/in/prasansha-satpathy-b6b753195/) - [Twitter](https://twitter.com/cosmo_sat) - [Medium](https://medium.com/@prasansha.satpathy)
 
-[www.prasanshasatpathy.codes](https://www.prasanshasatpathy.codes/)
+My Website : [www.prasanshasatpathy.codes](https://www.prasanshasatpathy.codes/)
 
 
-</p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sara-cos&layout=compact&hide=html&theme=jolly" alt="Prasansha Satpathy" />&nbsp;&nbsp;&nbsp;&nbsp; </p>
+<!--</p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sara-cos&layout=compact&hide=html&theme=jolly" alt="Prasansha Satpathy" />&nbsp;&nbsp;&nbsp;&nbsp; </p>-->
 
 
 <!-- <a href="https://github.com/antonkomarev/github-profile-views-counter">
