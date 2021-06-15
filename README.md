@@ -16,6 +16,6 @@
 </p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sara-cos&layout=compact&hide=html&theme=jolly" alt="Prasansha Satpathy" />&nbsp;&nbsp;&nbsp;&nbsp; </p>
 
 
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
+<!-- <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Sara-cos">
-</a>
+</a> -->
