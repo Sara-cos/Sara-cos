@@ -15,7 +15,8 @@ My Website : [www.prasanshasatpathy.codes](https://www.prasanshasatpathy.codes/)
 
 </p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sara-cos&layout=compact&hide=html&theme=jolly" alt="Prasansha Satpathy" />&nbsp;&nbsp;&nbsp;&nbsp; </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sara-cos&layout=compact)]
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sara-cos&layout=compact&theme=jolly)
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Sara-cos">
