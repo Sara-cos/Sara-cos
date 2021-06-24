@@ -18,9 +18,7 @@ My Website : [www.prasanshasatpathy.codes](https://www.prasanshasatpathy.codes/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sara-cos&layout=compact&bg_color=EBD7A9&text_color=382C10&icon_color=543E09&title_color=000000)
 
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
+<!-- <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Sara-cos">
-</a>
-
-
+</a> -->
 ![](https://komarev.com/ghpvc/?username=Sara-cos&color=lightgrey)
