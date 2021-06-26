@@ -13,10 +13,10 @@
 My Website : [www.prasanshasatpathy.codes](https://www.prasanshasatpathy.codes/)
 
 
-</p><p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Sara-cos&layout=compact&hide=html&theme= graywhite" alt="Prasansha Satpathy" />&nbsp;&nbsp;&nbsp;&nbsp; </p>
+</p><p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Sara-cos&layout=compact&hide=html&theme=graywhite" alt="Prasansha Satpathy" />&nbsp;&nbsp;&nbsp;&nbsp; </p>
 
-<--https://github-readme-stats.vercel.app/api?username=Sara-cos&layout=compact&hide=html&bg_color=EBD7A9&text_color=382C10&icon_color=543E09&title_color=000000-->
+<!--https://github-readme-stats.vercel.app/api?username=Sara-cos&layout=compact&hide=html&bg_color=EBD7A9&text_color=382C10&icon_color=543E09&title_color=000000-->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sara-cos&layout=compact&bg_color=EBD7A9&text_color=382C10&icon_color=543E09&title_color=000000&)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sara-cos&layout=compact&theme=graywhite)
 
 ![](https://komarev.com/ghpvc/?username=Sara-cos&color=lightgrey)
