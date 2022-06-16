@@ -10,7 +10,7 @@
 
 * [LinkedIn](https://www.linkedin.com/in/prasansha-satpathy-b6b753195/) - [Twitter](https://twitter.com/cosmo_sat) - [Medium](https://medium.com/@prasansha.satpathy)
 
-My Website : [www.prasanshasatpathy.codes](https://www.prasanshasatpathy.codes/)
+My Website : [www.prasanshasatpathy.me](http://www.prasanshasatpathy.me/)
 
 
 </p><p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Sara-cos&layout=compact&hide=html&theme=graywhite" alt="Prasansha Satpathy" />&nbsp;&nbsp;&nbsp;&nbsp; </p>
