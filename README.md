@@ -1,6 +1,6 @@
 ### Hello there, Happy to see you...👋
 
-- 🔭 I’m currently a student.
+- 🔭 I’m currently a working as SWE in HSBC, India.
 - 🌱 I’m developing my skills and working on applicability.
 - 👯 I’m looking to collaborate on projects, hackathons and research projects.
 - 🤔 I’m interested in Research, AI and ML, Business Intelligence, Financial Analysis, Blockchain...
